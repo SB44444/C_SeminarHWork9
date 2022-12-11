@@ -45,7 +45,7 @@ Console.WriteLine($"The sum of digits interval: {SumNumsNM(N, M)}");
 m = 2, n = 3 -> A(m,n) = 9
 m = 3, n = 2 -> A(m,n) = 29
 */
-
+/*
 int AkkermannFun(int m, int n)  // Рекусивный метод вычисления функции Аккермана для натуральных чисел M, N
 {
     if (m == 0) return n + 1;
@@ -59,3 +59,4 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input namber N");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"The value Ackermann function for digits M and N is: {AkkermannFun(m, n)}");
+*/
